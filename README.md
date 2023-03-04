@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Cyber Security Researcher with interests in Connected Vehicles, VANET, SDN, Machine Learning, Deep learning and Artificial Intelligence !</h3>
 <br />
 
-- 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
+- 🔭 I’m currently working as a freelancer. 
 
 - 🌱 I’m currently learning **ML, DL, AI, Python**
 
