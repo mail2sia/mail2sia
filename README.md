@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shakil Ahsan</h1>
-<h3 align="center">A Cyber Security Researcher with interests in Connected Vehicles, VANET, SDN, Machine Learning and Deep learning !</h3>
+<h1 align="center">Welcome to my GitHub 👋, I'm Shakil Ahsan</h1>
+<h3 align="center">A Cyber Security Researcher with interests in Connected Vehicles, VANET, SDN, Machine Learning, Deep learning and Artificial Intelligence !</h3>
 <br />
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
