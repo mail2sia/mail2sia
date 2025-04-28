@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sahsan03@student.bbk.ac.uk**
 
-- 📌 Looking for a PhD Research opportunity. 
+- 📌 PhD Candidate in Computer Science and Information Systems
 
 - ⚡ Fun fact I love Hercule Poirot a fictional Belgian detective created by British writer Agatha Christie. 
