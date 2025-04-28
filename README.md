@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a freelance Cyber Security Researcher. 
 
-- 🌱 I’m currently learning **ML, DL, AI, Python**
+- 🌱 I’m currently learning **ML, DL, Multi-agent system, AI, Python**
 
 - 👯 I’m looking to collaborate on my upcoming research paper.
 
 - 💬 Ask me about **Cybersecurity, Artificial Intelligence, Deep Learning, Machine Learning, Federated Learning, Hardware Security, Network Security, Vehicular Ad Hoc Networks, Wireless Networks, IoT, Intrusion Detection Systems, Privacy and Security, Cryptography, Cyber-Physical Systems, Smart Energy, Internet Censorship, and Sentiment Analysis.**
 
-- 📫 How to reach me **shakil2.ahsan@gmail.com**
+- 📫 How to reach me **sahsan03@student.bbk.ac.uk**
 
 - 📌 Looking for a PhD Research opportunity. 
 
